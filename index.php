@@ -4,7 +4,7 @@ $containerStyle = 'container mx-auto max-w-6xl p-6 mt-4 rounded-lg shadow-lg';
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $domain = $_POST["domain"];
-    $api_key = "sk-miftah";
+    $api_key = "your_apikey"; //Get Apikey From https://api-miftah.xyz
     $api_url = "https://api-miftah.xyz/api/tools/whois?api_key=$api_key&domain=" . urlencode($domain);
 
     $response = file_get_contents($api_url);
