@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/miftahganzz/Whois-Website/whois.png" alt="WHOIS Lookup Logo">
+  <img src="https://github.com/miftahganzz/Whois-Website/mobile.png" alt="WHOIS Lookup Logo">
 </p>
 
 <a href="https://whois-lookup.miftahganzz.repl.co" target="_blank">**Visit Now** 🚀</a>
