@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/miftahganzz/Whois-Website/mobile.png" alt="WHOIS Lookup Logo">
+  <img src="https://raw.githubusercontent.com/miftahganzz/Whois-Website/134cc767949917d68f268524137add000676704c/mobile.png" alt="WHOIS Lookup Logo">
 </p>
 
-<a href="https://whois-lookup.miftahganzz.repl.co" target="_blank">**Visit Now** 🚀</a>
+<p align="center">
+<a href="https://whois-lookup.miftahganzz.repl.co" target="_blank">Visit Now 🚀</a>
+</p>
 
 # WHOIS Lookup with PHP and api-miftah.xyz
 
