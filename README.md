@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://whois-lookup.miftahganzz.repl.co" target="_blank">Visit Now 🚀</a>
+<a href="https://whois.miftahganzz.tech" target="_blank">Visit Now 🚀</a>
 </p>
 
 # WHOIS Lookup with PHP and api-miftah.xyz
