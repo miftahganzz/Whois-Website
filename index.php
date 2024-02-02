@@ -4,8 +4,8 @@ $containerStyle = 'container mx-auto max-w-6xl p-6 mt-4 rounded-lg shadow-lg';
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $domain = $_POST["domain"];
-    $api_key = "your_apikey"; //Get Apikey From https://api-miftah.xyz
-    $api_url = "https://api-miftah.xyz/api/tools/whois?api_key=$api_key&domain=" . urlencode($domain);
+    $api_key = "your_apikey"; //Get Apikey From https://api.miftah.xyz
+    $api_url = "https://api.miftah.xyz/api/tools/whois?api_key=$api_key&domain=" . urlencode($domain);
 
     $response = file_get_contents($api_url);
 
@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             <div class="container mx-auto max-w-6xl p-3 mt-8 rounded-lg shadow-lg">
                 <form method="post">
                     <div class="mb-4 flex items-center">
-                        <input type="text" name="domain" id="domain" placeholder="Example: api-miftah.xyz, don't use https or http" class="input-bg bg-gray-700 text-white border rounded-l-lg w-4/5 p-1 text-lg transition duration-300" required>
+                        <input type="text" name="domain" id="domain" placeholder="Example: api.miftah.xyz, don't use https or http" class="input-bg bg-gray-700 text-white border rounded-l-lg w-4/5 p-1 text-lg transition duration-300" required>
                         <button type="submit" class="button-bg bg-blue-500 hover:bg-blue-600 text-white font-semibold px-4 py-1 rounded-r-lg text-lg flex items-center transition duration-300">
                             <i class="fas fa-search mr-2"></i> Lookup
                         </button>
