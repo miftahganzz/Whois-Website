@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<a href="https://whois.miftahganzz.tech" target="_blank">Visit Now 🚀</a>
+<a href="https://whois.miftah.xyz" target="_blank">Visit Now 🚀</a>
 </p>
 
 # WHOIS Lookup with PHP and api-miftah.xyz
 
-A simple, yet powerful WHOIS lookup tool that uses PHP to interact with the [api-miftah.xyz](https://api-miftah.xyz) REST API to retrieve WHOIS information for a given domain. 
+A simple, yet powerful WHOIS lookup tool that uses PHP to interact with the [api.miftah.xyz](https://api.miftah.xyz) REST API to retrieve WHOIS information for a given domain. 
 
 ## Features
 
@@ -26,7 +26,7 @@ Follow these simple steps to set up the WHOIS Lookup tool on your local machine.
 ### Prerequisites
 
 - PHP installed on your local machine.
-- [API Key](https://api-miftah.xyz) from api-miftah.xyz.
+- [API Key](https://api.miftah.xyz) from api.miftah.xyz.
 
 ### Installation
 
@@ -44,7 +44,7 @@ cd whois-lookup
 
 3. Open the `index.php` file in a text editor.
 
-4. Replace `"YOUR_API_KEY"` with your actual API key from [api-miftah.xyz](https://api-miftah.xyz). You can sign up and get your API key for free.
+4. Replace `"YOUR_API_KEY"` with your actual API key from [api.miftah.xyz](https://api.miftah.xyz). You can sign up and get your API key for free.
 
 ```php
 $api_key = "YOUR_API_KEY";
@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to [api-miftah.xyz](https://api-miftah.xyz) for providing the WHOIS API.
+- Thanks to [api.miftah.xyz](https://api.miftah.xyz) for providing the WHOIS API.
 - Built with [Tailwind CSS](https://tailwindcss.com).
 
 ## Contact
