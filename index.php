@@ -73,7 +73,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             <?php endif; ?>
         </div>
         <footer class="text-center text-gray-500 text-md mt-4">
-            &copy; 2023 Miftah GanzZ | <a href="https://github.com/miftahganzz" class="text-blue-500" target="_blank">Github</a><p>Powered By: <a href="https://api-miftah.xyz" class="text-blue-500">Miftah Api</a></p>
+            &copy; 2023 Miftah GanzZ | <a href="https://github.com/miftahganzz" class="text-blue-500" target="_blank">Github</a><p>Powered By: <a href="https://api.miftah.xyz" class="text-blue-500">Miftah Api</a></p>
         </footer>
     </div>
     <script src="function.js"></script>
